@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atul Patle</h1>
 <h3 align="center">A Frontend Developer From Banglore.</h3>
 
-<img src="https://i.ibb.co/SdW2grd/0001-1-2.jpg" alt="bootstrap" width="1000" height="500"/> 
+<img src="https://i.ibb.co/SdW2grd/0001-1-2.jpg" alt="bootstrap" width="1000" height="490"/> 
 
 
 - 🌱 I’m currently learning **MERN Stack**
