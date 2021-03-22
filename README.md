@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atul Patle</h1>
 <h3 align="center">A Frontend Developer From Banglore.</h3>
 
+<img src="https://photos.app.goo.gl/gQHyeMvJSErLwQDa8" alt="bootstrap" width="auto" height="60"/> 
+
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtulPatle123](https://github.com/AtulPatle123)
