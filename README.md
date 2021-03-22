@@ -3,6 +3,7 @@
 
 <img src="https://i.ibb.co/SdW2grd/0001-1-2.jpg" alt="bootstrap" width="1000" height="490"/> 
 
+- 🤝 I’m looking for job opportunity in **Web Development**
 
 - 🌱 I’m currently learning **MERN Stack**
 
