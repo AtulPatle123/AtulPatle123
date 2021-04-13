@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **atulpatlebgt@outlook.com**
 
-- 📄 Resume--> [https://drive.google.com/file/d/17SCrFjszlZMCLtauRH5RLRl3CZHfonPB/view?usp=sharing](https://drive.google.com/file/d/1gLlZSZT0732njhDNFQC6_a2IrHRtiUv0/view?usp=sharing)
+- 📄 Resume--> [https://drive.google.com/file/d/17SCrFjszlZMCLtauRH5RLRl3CZHfonPB/view?usp=sharing](https://drive.google.com/file/d/17SCrFjszlZMCLtauRH5RLRl3CZHfonPB/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
