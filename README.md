@@ -1,9 +1,7 @@
-<h1 align="center">Hi 😊, I'm Atul Patle</h1>
-<h3 align="center">A Frontend Developer From Banglore.</h3>
+<h1 align="center"> Hii, I'm Atul Patle <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+<h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
 
-<img src="https://i.ibb.co/SdW2grd/0001-1-2.jpg" alt="bootstrap" width="1000" height="490"/> 
-
-- 🤝 I’m looking for job opportunity in **Web Development**
 
 - 🌱 I’m currently learning **MERN Stack**
 
