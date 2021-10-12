@@ -19,9 +19,16 @@
 
 
  </p>
- 
- 
 
-<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulpatle123&show_icons=true&locale=en&layout=compact" alt="atulpatle123" /></p>
 
-<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=atulpatle123&show_icons=true&locale=en" alt="atulpatle123" /></p>
+<h3> ⚡ GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulpatle123&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="atulpatle" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atulpatle123&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="atulpatle" height="195px"/></p>
+<br><br><br>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulpatle123&theme=dark" alt="atulpatle" /></p> -->
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=atulpatle123&theme=dark)
+
+<h3> ⚙️  GitHub Analytics </h3>
+<img src="https://activity-graph.herokuapp.com/graph?username=atulpatle123&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
