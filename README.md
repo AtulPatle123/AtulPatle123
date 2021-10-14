@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtulPatle123](https://github.com/AtulPatle123)
 
-- 💬 Ask me about **React && JavaScript**
+- 💬 Ask me about **React & JavaScript**
 
 - 📫 How to reach me **atulpatlebgt@outlook.com**
 
