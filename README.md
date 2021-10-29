@@ -23,7 +23,6 @@
 <h3> ⚡ GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulpatle123&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="atulpatle" /></p>
 
-<br><br><br>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulpatle123&theme=dark" alt="atulpatle" /></p> -->
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=atulpatle123&theme=dark)
