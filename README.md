@@ -3,8 +3,6 @@
 <h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
 
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 🌐 Website https://atulpatle.netlify.app/
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtulPatle123](https://github.com/AtulPatle123)
