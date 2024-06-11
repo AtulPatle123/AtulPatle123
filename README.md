@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React & JavaScript**
 
-- 📫 How to reach me **atulpatlebgt@outlook.com**
+- 📫 How to reach me **atul.patle.dev@gmail.com**
 
 - 📄 Resume--> [https://drive.google.com/file/d/17SCrFjszlZMCLtauRH5RLRl3CZHfonPB/view?usp=sharing](https://drive.google.com/file/d/17SCrFjszlZMCLtauRH5RLRl3CZHfonPB/view?usp=sharing)
 
